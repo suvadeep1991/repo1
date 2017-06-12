@@ -2,4 +2,3 @@
 I am testing git
 change on the file
 change on the file
-changing one line
